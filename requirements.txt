@@ -5,6 +5,7 @@ certifi==2021.5.30
 charset-normalizer==2.0.4
 Django==3.2.5
 django-admin-honeypot==1.1.0
+django-admin-thumbnails==0.2.6
 django-session-timeout==0.1.0
 django-storages==1.11.1
 idna==3.2
